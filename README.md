@@ -37,7 +37,7 @@ Click below to watch the short demo of the dashboard:
 ## 📁 Files in This Repository
 
 - `HR Analytics Dashboard.pbix` → Full Power BI report file  
-- `HR Analytics.png` → Screenshot preview of the dashboard  
+- `Dashboard Preview.png` → Screenshot preview of the dashboard  
 - `video` folder → Contains dashboard walkthrough link  
 
 ---
