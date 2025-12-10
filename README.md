@@ -20,7 +20,7 @@ This project focuses on analyzing employee and HR data to provide insights into 
 
 Click below to watch the short demo of the dashboard:
 
-➡️ [Watch Dashboard Video](video/dashboard-walkthrough.txt)
+➡️ [Watch Dashboard Video](video/dashboard-walkthrough.md)
 
 ---
 
